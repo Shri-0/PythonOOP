@@ -1,2 +1,3 @@
 # PythonOOP
-The Original Code repository for my Python OOP Series
+
+# This is a basic template for Object Oriented Programming that I put together
